@@ -72,7 +72,7 @@ Pornography consumption is an epidemic issue and much of the population is begin
 #### Table of Contents
 {: .no_toc}
 
-<ul><li> <a href="/docs/pornography/The-Problem-of-Pornography-1/">Morgann Hagar</a></li><li> <a href="/docs/pornography/The-Problem-of-Pornography-2/">Works Cited</a></li></ul>
+<ul><li> <a href="/docs/T/The-Problem-of-Pornography-1/">Morgann Hagar</a></li><li> <a href="/docs/T/The-Problem-of-Pornography-2/">Works Cited</a></li></ul>
 
 ***
 

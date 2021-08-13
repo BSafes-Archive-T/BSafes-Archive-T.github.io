@@ -67,7 +67,7 @@ Washington, Bryan. “Tumblr Has Closed The Door To Users Who Don’t Have Many 
 #### Table of Contents
 {: .no_toc}
 
-<ul><li> <a href="/docs/pornography/The-Problem-of-Pornography-1/">Morgann Hagar</a></li><li> <a href="/docs/pornography/The-Problem-of-Pornography-2/">Works Cited</a></li></ul>
+<ul><li> <a href="/docs/T/The-Problem-of-Pornography-1/">Morgann Hagar</a></li><li> <a href="/docs/T/The-Problem-of-Pornography-2/">Works Cited</a></li></ul>
 
 ***
 
