@@ -124,11 +124,6 @@ The U.S. is not the only international player noting concern over China’s MIC2
 
 5. Financial policy 
 
-***
-<sup>8</sup> Congressional Research Service, 2020 https://fas.org/sgp/crs/row/IF10964.pdf
-{: .fs-2}
-***
-
 6. Government-backed investment funds
 
 7. Support from local government
@@ -138,6 +133,11 @@ The U.S. is not the only international player noting concern over China’s MIC2
 9. State-owned enterprises: mergers and politicization
 
 10. Public-private partnerships
+
+***
+<sup>8</sup> Congressional Research Service, 2020 https://fas.org/sgp/crs/row/IF10964.pdf
+{: .fs-2}
+***
 
 The policies, goals and context surrounding of MIC2025 illustrate China’s determination to rise to the top of the global value chain. Although not the sole focus of this paper, MIC2025 provides a tangible entry point to the discussion of China in terms of structural power and interdependence. Malkin (2020) argues that via MIC2025, China is raising its latent capacity to go beyond relational power (defined in Malkin as “the power to work within the structural of global order overseen by the U.S.”) raise its productive power (broken down into four categories: market power, centrality in global value chains, ownership of assets, and technological standard setting) to shape the structural contours of global order (Malkin 2020, p.5). While Malkin suggests that U.S. hegemony remains constant, his empirical evidence suggests that recent IPE scholarship is too quick to dismiss China as a real challenger of U.S. structural power.
 
