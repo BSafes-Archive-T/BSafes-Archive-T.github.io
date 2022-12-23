@@ -56,7 +56,7 @@ University of Richmond
 {: .no_toc }
 University of Louisville 
 
-
+<div class="youtube-container">
 <iframe width="100%" src="https://www.youtube.com/embed/kW8PqjgImlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="youtube-video"></iframe>
 </div>
 **Video:** Getty Images | 2020 Year in Review: Covid-19* 
